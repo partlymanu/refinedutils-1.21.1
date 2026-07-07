@@ -1,0 +1,15 @@
+{
+  "itemGroup.refinedutils": "Example Mod Tab",
+  "block.refinedutils.example_block": "Example Block",
+  "item.refinedutils.example_item": "Example Item",
+
+  "refinedutils.configuration.title": "Refined Utils Configs",
+  "refinedutils.configuration.section.refinedutils.common.toml": "Refined Utils Configs",
+  "refinedutils.configuration.section.refinedutils.common.toml.title": "Refined Utils Configs",
+  "refinedutils.configuration.items": "Item List",
+  "refinedutils.configuration.logDirtBlock": "Log Dirt Block",
+  "refinedutils.configuration.magicNumberIntroduction": "Magic Number Text",
+  "refinedutils.configuration.magicNumber": "Magic Number",
+  "block.refinedutils.exposed_interface": "Exposed Interface",
+  "block.refinedutils.exposed_interface.help": "Exposes a Refined Storage network as an item handler (looks like a chest to others)."
+}

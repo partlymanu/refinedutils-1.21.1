@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "RMR",
+    "CEC"
+  ],
+  "key": {
+    "C": {
+      "item": "refinedstorage:quartz_enriched_copper"
+    },
+    "I": {
+      "item": "refinedstorage:importer"
+    },
+    "E": {
+      "item": "refinedstorage:exporter"
+    },
+    "M": {
+      "item": "refinedstorage:machine_casing"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "result": {
+    "id": "refinedutils:exposed_interface"
+  }
+}

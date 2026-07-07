@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "refinedutils:block/exposed_interface/active"
+  }
+}
